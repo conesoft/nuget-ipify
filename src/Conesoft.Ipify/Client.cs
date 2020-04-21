@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Conesoft.Ipify
 {
-    class Client
+    public class Client
     {
         readonly HttpClient client;
 
