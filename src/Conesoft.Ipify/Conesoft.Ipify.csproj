@@ -10,4 +10,8 @@
     <PackageProjectUrl>https://github.com/conesoft/ipify</PackageProjectUrl>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="Conesoft.forNuget.x256.png" Pack="true" PackagePath="" />
+  </ItemGroup>
+
 </Project>
